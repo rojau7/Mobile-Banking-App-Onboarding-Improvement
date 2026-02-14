@@ -1,9 +1,10 @@
 # Mobile Banking App Onboarding Improvement
 ### Business Analysis Case Study 
 
-**Business Analyst:** Roja Armugam
-**Domain:** Banking / Digital Transformation
+**Business Analyst:** Roja Armugam  
+**Domain:** Banking / Digital Transformation  
 **Methodology:** Agile Scrum
+
 
 -----
 
