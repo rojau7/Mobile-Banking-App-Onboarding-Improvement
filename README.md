@@ -43,30 +43,30 @@ The following techniques were applied:
 
 ## 📂 Documentation
 
-- [Business Requirement Document] (BRD/BRD.pdf)
-- [Functional Requirement Document] (FRD/FRD.pdf)
-- [Requirement Traceability Matrix] (RTM/RTM.pdf)
-- [User Acceptance Testing] (UAT/UAT.pdf)
-- [GAP Analysis] (Gap-Analysis/GAP.pdf)
-- [RACI Matrix] (RACI/RACI.pdf)
+- [Business Requirement Document](BRD/BRD.pdf)
+- [Functional Requirement Document](FRD/FRD.pdf)
+- [Requirement Traceability Matrix](RTM/RTM.pdf)
+- [User Acceptance Testing](UAT/UAT.pdf)
+- [GAP Analysis](Gap-Analysis/GAP.pdf)
+- [RACI Matrix](RACI/RACI.pdf)
 
 ------
 
 ## 📊 Process Flow and UML Diagram
 
 ### As-Is Process Flow
-- [As-Is Process Flow] (Diagrams/As-Is.pdf)
-- [To-Be Process Flow] (Diagrams/To-Be.pdf)
-- [Use Case] (Diagrams/Use-Case.pdf))
+- [As-Is Process Flow](Diagrams/As-Is.pdf)
+- [To-Be Process Flow](Diagrams/To-Be.pdf)
+- [Use Case](Diagrams/Use-Case.pdf)
 
 ------
 
 ## 📈 Success Metrics
 
-- Reduction in onboarding drop-off rate
-- Improved onboarding completion time
-- Increased digital adoption
-- Reduced customer support queries
+-  Reduction in onboarding drop-off rate
+-  Improved onboarding completion time
+-  Increased digital adoption
+-  Reduced customer support queries
 
 ------
 
