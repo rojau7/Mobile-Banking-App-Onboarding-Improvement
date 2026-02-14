@@ -1,13 +1,19 @@
-# Mobile-Banking-App-Onboarding-Improvement
+# Mobile Banking App Onboarding Improvement
 ### Business Analysis Case Study 
+
+**Business Analyst:** Roja Armugam
+**Domain:** Banking / Digital Transformation
+**Methodology:** Agile Scrum
 
 -----
 
 ## 📖 Background
 
-A mobile banking application experienced a high drop-off rate during onboarding process. While many users downloaded the app a significant percentage of did not completed registeration.
+A mobile banking application experienced a high drop-off rate during onboarding process. While many users downloaded the app a significant percentage did not completed the registeration process.
 
-This case study demonstrates a structured Business Analysis approach to identify root causes and redesigning onboarding journey to improve completion rates. 
+This case study demonstrates a structured Business Analysis approach to identify root causes and redesigning onboarding journey to improve completion rates.
+
+The initiative aimed to enhance user experience, streamline onboarding steps, and drive higher digital channel adoption.
 
 -----
 
