@@ -8,7 +8,7 @@
 
 -----
 
-## 📖 Background
+## Background
 
 A mobile banking application experienced a high drop-off rate during onboarding process. While many users downloaded the app a significant percentage did not completed the registeration process.
 
@@ -18,7 +18,7 @@ The initiative aimed to enhance user experience, streamline onboarding steps, an
 
 -----
 
-## 🎯 Problem Statements
+## Problem Statements
 
 Users abandoned onboarding due to:
 
@@ -31,7 +31,7 @@ The objective was to redesign the onboarding process to improve user experience 
 
 ------
 
-## 🧠 Business Analysis Approach
+## Business Analysis Approach
 
 The following techniques were applied:
 
@@ -48,7 +48,7 @@ The following techniques were applied:
 
 ------
 
-## 📂 Documentation
+## Documentation
 
 - [Business Requirement Document](BRD/BRD.pdf)
 - [Functional Requirement Document](FRD/FRD.pdf)
@@ -59,7 +59,7 @@ The following techniques were applied:
 
 ------
 
-## 📊 Process Flow and UML Diagram
+## Process Flow and UML Diagram
 
 ### As-Is Process Flow
 - [As-Is Process Flow](Diagrams/As-Is.pdf)
@@ -68,7 +68,7 @@ The following techniques were applied:
 
 ------
 
-## 📈 Success Metrics
+## Success Metrics
 
 -  Reduction in onboarding drop-off rate
 -  Improved onboarding completion time
@@ -77,7 +77,7 @@ The following techniques were applied:
 
 ------
 
-## 🛠 Tools & Methodology
+## Tools & Methodology
 
 - Confluence (Documentation Structure)
 - Lucid Chart / Miro (Process & UML Diagram)
@@ -85,7 +85,7 @@ The following techniques were applied:
 - MoSCoW Prioritization
 
 ------
-## 🙎🏻‍♀️ Role
+## Role
 
 Business Analyst
 
